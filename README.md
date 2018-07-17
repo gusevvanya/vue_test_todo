@@ -1,6 +1,6 @@
 # test_task
 
-> A Vue.js project
+> An awesome Vue.js project!
 
 ## Build Setup
 
